@@ -115,7 +115,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-https://ai-translator-client-zeta.vercel.app/
+DEMO - https://ai-translator-client-zeta.vercel.app/
+
 Zhansultan - zhansultan18@gmail.com
 
 GitHub Profile: [https://github.com/zhansultan](https://github.com/zhans1)
