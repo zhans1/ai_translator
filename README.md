@@ -111,8 +111,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Zhansultan - zhansultan18@gmail.com
 
-GitHub Profile: [https://github.com/zhansultan](https://github.com/zhansultan)
-LinkedIn: [https://linkedin.com/in/zhansultan](https://linkedin.com/in/zhansultan)
+GitHub Profile: [https://github.com/zhansultan](https://github.com/zhans1)
+LinkedIn: [https://linkedin.com/in/zhansultan](https://www.linkedin.com/in/zhansultan-rakhatov-08a088150/)
 
 ## 🙏 Acknowledgments
 
