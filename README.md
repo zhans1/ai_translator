@@ -42,31 +42,37 @@ A modern web application that provides AI-powered translation services with styl
 ### Installation
 
 1. Clone the repository
-bash
-git clone https://github.com/yourusername/ai-translator.git 
+```bash
+git clone https://github.com/yourusername/ai-translator.git
+cd ai-translator
+```
 
-2. Install dependencies for both frontend and backend
-cd client
-npm install
-cd server
-npm install
+2. Install all dependencies (client and server)
+```bash
+npm run install-all
+```
 
-3. Create a `.env` file in the server directory
+3. Create a `.env` file in the root directory
+```
 OPENAI_API_KEY=your_api_key_here
 PORT=3001
+```
 
-4. Start the server
-bash
-cd server
-npm start
+4. Start both client and server
+```bash
+npm run dev
+```
 
-5. Start the client
-bash
-cd client
-npm start
+The application will be available at:
+- Frontend: `http://localhost:3000`
+- Backend: `http://localhost:3001`
 
+### Available Scripts
 
-The application will be available at `http://localhost:3000`
+- `npm run dev` - Starts both client and server concurrently
+- `npm run client` - Starts only the client
+- `npm run server` - Starts only the server
+- `npm run install-all` - Installs dependencies for both client and server
 
 ## 📝 Usage
 
@@ -115,8 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Zhansultan - zhansultan18@gmail.com
 
-GitHub Profile: [https://github.com/zhansultan](https://github.com/zhansultan)
-LinkedIn: [https://linkedin.com/in/zhansultan](https://linkedin.com/in/zhansultan)
+GitHub Profile: [https://github.com/zhansultan](https://github.com/zhans1)
+LinkedIn: [https://linkedin.com/in/zhansultan](https://www.linkedin.com/in/zhansultan-rakhatov-08a088150/)
 
 ## 🙏 Acknowledgments
 
